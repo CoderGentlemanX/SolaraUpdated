@@ -27,7 +27,7 @@
 </p>
     Note: load up the executor before opening up Roblox.
 </p>
-<h1>Download Link: </h1>
+<h1>Tip: </h1>
 </p>
 Bitcoin: bc1qgr6z9lxc7eq4tjga8ap48kn2xr0uhdrqhp23t4
 </p>
