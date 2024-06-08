@@ -1,4 +1,4 @@
-# SolaraUpdated
+# Solara *UPDATED*
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,9 +27,7 @@
 </p>
     Note: load up the executor before opening up Roblox.
 </p>
-</p>
-Tip:
-</p>
+<h1>Download Link: </h1>
 </p>
 Bitcoin: bc1qgr6z9lxc7eq4tjga8ap48kn2xr0uhdrqhp23t4
 </p>
