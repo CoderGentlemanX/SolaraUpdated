@@ -21,3 +21,21 @@
 </p>
     Note: load up the EXE before opening up Roblox.
 </p>
+</p>
+Tip:
+</p>
+</p>
+Bitcoin: bc1qgr6z9lxc7eq4tjga8ap48kn2xr0uhdrqhp23t4
+</p>
+</p>
+Litecoin: LXTadfmWJwrQiyGJ6B9A6vhfm6eWpATUpE
+</p>
+</p>
+Ethereum: 0xF44CbF2Ca51FEA5b1e206cfA272F620b88839B5a
+</p>
+</p>
+Binance: bnb1z7nu7n8p79j4n9mw4gd6hpgnjdhucgxlnp25mr
+</p>
+</p>
+Solana: 34UaDMu9udLPX12g8sTL4NXcykziRAMCoysqbdiVN8E9
+</p>
