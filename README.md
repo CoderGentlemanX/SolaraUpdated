@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>*UPDATED* Version of Solara</h1>
+<h1>*UPDATED* Version of Solara, working as of June 2024.</h1>
 
 <h2>Description</h2>
 <p>
