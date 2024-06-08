@@ -16,10 +16,10 @@
 
 <h2>Installation</h2>
 <p>
-    Download and run Solara turn off any anti-viruses due to false detections.
+    Download and run Solara Executor, turn off all anti-viruses due to false detections.
 </p>
 </p>
-    Note: load up the EXE before opening up Roblox.
+    Note: load up the executor before opening up Roblox.
 </p>
 </p>
 Tip:
