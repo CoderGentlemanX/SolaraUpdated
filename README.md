@@ -1,4 +1,4 @@
-# Solara *UPDATED*
+# Solara UPDATED
 <!DOCTYPE html>
 <html lang="en">
 <head>
