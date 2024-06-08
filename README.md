@@ -12,7 +12,7 @@
 
 <h2>Description</h2>
 <p>
-    This Repo is the OFFICIAL Reuploaded and fully updated and working version of Solara."
+    This Repo is the OFFICIAL Reuploaded and fully updated and working version of Solara.
 
 <h2>Installation</h2>
 <p>
