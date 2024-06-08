@@ -22,7 +22,7 @@
 
 <h2>Installation</h2>
 <p>
-    Download and run Solara Executor, turn off all anti-viruses due to false detections.
+    Turn off all anti-viruses and download and run Solara.
 </p>
 </p>
     Note: load up the executor before opening up Roblox.
